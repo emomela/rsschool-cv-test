@@ -34,3 +34,14 @@ p {font-weight:bold}
 </html>
 
 ```
+
+
+### Courses
+* HTML Academy
+* RS School
+
+### Languages
+* Russian native speaker
+* English B1
+* Polish A2
+* Belarusian C2
