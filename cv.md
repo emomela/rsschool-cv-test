@@ -14,3 +14,23 @@ _I am at the beginning of a huge and interesting journey._
 * Figma, Adobe Photoshop, Adobe Illustrator
 * Git, GitHub
 * Visual Studio Code
+
+
+### Code example
+
+```
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Пример HTML кода</title>
+<style type="text/css">
+p {font-weight:bold}
+</style>
+</head>
+<body>
+  <p style="color:red">Привет!</p>
+</body>
+</html>
+
+```
